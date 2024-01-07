@@ -5,6 +5,20 @@
     background-repeat: no-repeat;
     border: 10px solid red;
 }
+.name{
+    margin-left: 80px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.navbar{
+    margin: 0;
+    padding: 0;
+    float: right;
+    
+}
+li{
+    display: inline;
+    
+}
 .first{
     background-color: bisque;
     text-align: justify;
