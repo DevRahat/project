@@ -1,0 +1,15 @@
+.head{
+    margin: 0;
+    height: 100px;
+    background-color: aquamarine;
+    background-repeat: no-repeat;
+    border: 10px solid red;
+}
+.first{
+    background-color: bisque;
+    text-align: justify;
+}
+.foot{
+    background-color: bisque;
+    height: 100px;
+}
